@@ -1,3 +1,2 @@
 # Generators
-gang shit
-lol sup who made this lol
+Bunch of 1337 generators. Written in python.
